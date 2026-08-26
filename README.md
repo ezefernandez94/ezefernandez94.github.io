@@ -68,3 +68,5 @@ We may update this Privacy Policy from time to time. Any changes will be indicat
 
 ## 8. Contact Information
 If you have any questions or concerns regarding this Privacy Policy or data handling, please contact your support email or open an issue in the project repository.
+
+tiktok-developers-site-verification=GG02lQ383FuJ2y3psPbk6B13mkW9BTEH
